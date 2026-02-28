@@ -2,6 +2,7 @@ import subprocess
 from dataclasses import dataclass
 from datetime import datetime, timezone
 
+
 @dataclass
 class CmdResult:
     cmd: str
@@ -10,6 +11,7 @@ class CmdResult:
     stderr: str
     started_utc: str
     ended_utc: str
+
 
 def run_cmd(cmd: str, timeout: int = 120) -> CmdResult:
     started = datetime.now(timezone.utc)
