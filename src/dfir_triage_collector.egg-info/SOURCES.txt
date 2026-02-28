@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/dfir_triage/__init__.py
+src/dfir_triage/cli.py
+src/dfir_triage/runner.py
+src/dfir_triage/collectors/windows.py
+src/dfir_triage/utils/hashing.py
+src/dfir_triage/utils/packaging.py
+src/dfir_triage/utils/shell.py
+src/dfir_triage_collector.egg-info/PKG-INFO
+src/dfir_triage_collector.egg-info/SOURCES.txt
+src/dfir_triage_collector.egg-info/dependency_links.txt
+src/dfir_triage_collector.egg-info/entry_points.txt
+src/dfir_triage_collector.egg-info/top_level.txt

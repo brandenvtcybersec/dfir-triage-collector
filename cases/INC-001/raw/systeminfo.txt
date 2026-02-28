@@ -1,0 +1,68 @@
+
+Host Name:                     DESKTOP-L1M6HAK
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              The JUGGERNAUT
+Registered Organization:       
+Product ID:                    00356-02020-88268-AAOEM
+Original Install Date:         12/8/2024, 9:41:45 AM
+System Boot Time:              2/27/2026, 4:07:54 PM
+System Manufacturer:           System manufacturer
+System Model:                  System Product Name
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3593 Mhz
+BIOS Version:                  American Megatrends Inc. 1804, 7/29/2019
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+12:00) Auckland, Wellington
+Total Physical Memory:         16,315 MB
+Available Physical Memory:     7,407 MB
+Virtual Memory: Max Size:      30,139 MB
+Virtual Memory: Available:     15,704 MB
+Virtual Memory: In Use:        14,435 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DESKTOP-L1M6HAK
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5054156
+                               [03]: KB5077181
+                               [04]: KB5077869
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 3
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::7f04:f549:84a6:1701
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: Intel(R) Wireless-AC 9260 160MHz
+                                     Connection Name: Wi-Fi
+                                     Status:          Media disconnected
+                               [04]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.1
+                                     IP address(es)
+                                     [01]: 192.168.1.8
+                                     [02]: fe80::afd8:9e2b:ddbd:8f77
+                                     [03]: 2407:7000:ab66:cb00:4581:f3e:d633:2fbc
+                                     [04]: 2407:7000:ab66:cb00:1198:ce9c:ff37:94e5
+                                     [05]: 2407:7000:ab66:cb00:cb7b:6cda:636d:fc64
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes

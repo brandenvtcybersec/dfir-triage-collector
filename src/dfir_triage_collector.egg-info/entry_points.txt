@@ -1,0 +1,2 @@
+[console_scripts]
+dfir-triage = dfir_triage.cli:main
