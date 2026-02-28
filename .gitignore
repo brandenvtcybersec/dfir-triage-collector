@@ -1,5 +1,0 @@
-cases
-*.zip
-.venv/
-__pycache__/
-*.pyc
